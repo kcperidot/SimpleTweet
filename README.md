@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] User can view more tweets as they scroll with infinite pagination
+- [x] User can view more tweets as they scroll with infinite pagination
 - [ ] Improve the user interface and theme the app to feel "twitter branded"
 - [ ] Links in tweets are clickable and will launch the web browser
 - [ ] User can tap a tweet to display a "detailed" view of that tweet
@@ -40,6 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 The gradle gave me a lot of problems, and I ended up deleting all of my files and starting again. Thankfully that fixed the problem but it meant I wasted a lot of time and effort. Additionally, I did implement the infinite scroll function, but it does not work properly and I could not fix the problem before the due date.
+Update: Fixed infinite scroll.
 
 ## Open-source libraries used
 
